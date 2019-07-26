@@ -1,6 +1,6 @@
 %% Overlap and Save Method
-% Kübra Kutlu
-% Cansu Demirkýran
+% KÃ¼bra Kutlu
+% Cansu Demirkiran
 % -------------------------------------------------------------------------
 clear all
 % Parameters
